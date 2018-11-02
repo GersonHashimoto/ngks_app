@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ngks</string>
+    <string name="mensagem_inicial">Bem Vindo!</string>
+
+    <string name="login_titulo">Login</string>
+    <string name="login">Entrar</string>
+    <string name="usuario">Usuário</string>
+    <string name="senha">Senha</string>
+    <string name="title_activity_settings">Settings</string>
+
+</resources>
